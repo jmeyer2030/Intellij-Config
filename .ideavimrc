@@ -1,0 +1,23 @@
+" Enable relative line numbers
+set relativenumber
+
+
+set scrolloff=10
+
+
+set showmode
+set showcmd
+set visualbell
+set clipboard+=unnamed
+
+
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+
+let mapleader = " "
+
+set surround
+
+set highlightedyank
