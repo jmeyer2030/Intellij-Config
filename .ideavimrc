@@ -1,7 +1,7 @@
 " Enable relative line numbers
 set relativenumber
 
-
+" scroll begins 15 lines before the edge
 set scrolloff=10
 
 
@@ -21,3 +21,6 @@ let mapleader = " "
 set surround
 
 set highlightedyank
+
+nnoremap <leader>o o<Esc>
+nnoremap <leader>O O<Esc>
